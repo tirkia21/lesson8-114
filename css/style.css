@@ -1,0 +1,222 @@
+/* header */
+.bg-image {
+    background-image: url(../image/nature.jpg);
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+}
+.bg-div {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-ol {
+    display: flex;
+}
+.nav-li {
+    margin-right: 30px;
+    color: #D9F0FF;
+    font-family: 'Poppins';
+    font-size: 12px;
+}
+.bg-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+    font-size: 100px;
+    font-family: 'Lato';
+}
+.fa-bars {
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.burger {
+    display: none;
+}
+/* section1 */
+.section-div {
+    max-width: 1280px;
+    width: 100%;
+    height: 601;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+.div2 {
+    max-width: 640px;
+    width: 100%;
+    height: 601px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.div3 {
+    max-width: 307px;
+    width: 100%;
+    height: 73px;
+    background-color: #325DFF;
+    color: #FFFFFF;
+    border-radius: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 82px;
+}
+.sec-headline {
+    max-width: 468px;
+    width: 100%;
+    height: 186px;
+    font-family: 'Lato';
+    font-size: 50px;
+    margin-bottom: 24px;
+    margin-left: 82px;
+}
+.sec-text {
+    max-width: 457px;
+    width: 100%;
+    height: 128px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    margin-left: 82px;
+}
+.img-div {
+    max-width: 640px;
+    width: 100%;
+    height: 601px;
+}
+/* section2 */
+.section {
+    background-color: #FAFAFA;
+}
+.div {
+    max-width: 1171px;
+    width: 100%;
+    height: 965px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headline-div {
+    max-width: 771px;
+    width: 100%;
+    height: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.headline1 {
+    font-family: 'Lato';
+    font-size: 35px;
+    margin-bottom: 9px;
+}
+.text1 {
+    font-family: 'Poppins';
+    font-size: 16px;
+    text-align: center;
+}
+/* conteiner1 */
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.box1 {
+    max-width: 371px;
+    width: 100%;
+    height: 334px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.box2 {
+    max-width: 371px;
+    width: 100%;
+    height: 334px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box3{
+    max-width: 371px;
+    width: 100%;
+    height: 334px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon-div {
+    width: 88px;
+    height: 88px;
+    background-color: #325DFF;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 27px;
+}
+.text {
+    max-width: 251px;
+    width: 100%;
+    height: 106px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+.headline {
+    margin-bottom: 9px;
+    font-family: 'Lato';
+    font-size: 18px;
+}
+/* conteiner 2 */
+.conteiner2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.box4 {
+    max-width: 371px;
+    width: 100%;
+    height: 334px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.box5 {
+    max-width: 371px;
+    width: 100%;
+    height: 334px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box6 {
+    max-width: 371px;
+    width: 100%;
+    height: 334px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
